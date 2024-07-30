@@ -41,12 +41,12 @@ export default function Footer() {
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        Github
+                                        Facebook
                                     </a>
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
-                                        Discord
+                                        Instagram
                                     </Link>
                                 </li>
                             </ul>
@@ -72,8 +72,8 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                        <a href="Artify" className="hover:underline">
+                            Artify
                         </a>
                         . All Rights Reserved.
                     </span>
@@ -82,7 +82,7 @@ export default function Footer() {
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
-                                xmlns="http://www.w3.org/2000/svg"
+                                xmlns=""
                                 fill="currentColor"
                                 viewBox="0 0 8 19"
                             >
